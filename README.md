@@ -19,13 +19,16 @@ Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
 
 Back-end
+
 Initializing the NodeJS Code
 Run node init to initialize the project and create configuration files
 
 Installing the required dependencies
+
 Run npm install express sequelize mysql2 cors jsonwebtoken bcryptjs --save to install all the required modules
 
 Required Modules
+
 express
 equelize
 mysql2
