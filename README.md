@@ -2,7 +2,8 @@
 Development server
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
-![image](https://user-images.githubusercontent.com/98078160/152792652-e3611f3c-b081-413d-9bb1-d822584b8615.png)
+
+![image](https://user-images.githubusercontent.com/98078160/152794145-b50d25f0-33a1-4fe4-988b-0afa701d0dde.png)
 
 
 Tools: MEAN Stack (latest) Angular, NodeJS, Express, GraphQL and MYSQL
