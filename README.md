@@ -17,3 +17,19 @@ Run ng e2e to execute the end-to-end tests via Protractor.
 
 Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
+
+Back-end
+Initializing the NodeJS Code
+Run node init to initialize the project and create configuration files
+
+Installing the required dependencies
+Run npm install express sequelize mysql2 cors jsonwebtoken bcryptjs --save to install all the required modules
+
+Required Modules
+express
+equelize
+mysql2
+jsonwebtoken
+bcryptjs
+Running the program
+Run node server.js to run the program. When the program is run, the tables defined in the modules package will be automaticaly created in the database as per connection
