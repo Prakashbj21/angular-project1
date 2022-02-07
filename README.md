@@ -2,6 +2,9 @@
 Development server
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
+![image](https://user-images.githubusercontent.com/98078160/152792652-e3611f3c-b081-413d-9bb1-d822584b8615.png)
+
+
 Tools: MEAN Stack (latest) Angular, NodeJS, Express, GraphQL and MYSQL
 Code scaffolding
 Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
