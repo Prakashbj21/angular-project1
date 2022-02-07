@@ -17,6 +17,19 @@ Run ng e2e to execute the end-to-end tests via Protractor.
 
 Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
+Installing the Required Modules
+
+For adding angular material
+Run ng add @angular/material command
+
+For adding Highcharts
+Run npm install highcharts-angular --save command Run npm install highcharts --save command
+
+For adding Flex-layout
+Run npm install @angular/flex-layout --save command
+
+For adding CDK
+Run npm install @angular/cdk --save command
 
 Back-end
 
